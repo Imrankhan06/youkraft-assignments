@@ -34,18 +34,10 @@ Install project dependencies
 ```bash
   pip install -r requirements.txt
 ```
-Migrate
-```bash
-  python manage.py migrate
-```
-Run the application
-```bash
-  python manage.py runserver
-```
-
+## Run the application
 ## Task 1(Custom User Model and hash password before saving to DB)
 ```bash
-  cd Task1/
+  cd Task1/  
   python manage.py runserver
   
   API: http://localhost:8000/api/users/
