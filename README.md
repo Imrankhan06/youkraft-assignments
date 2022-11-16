@@ -16,7 +16,7 @@ Clone the Project Repo
 ```bash
   mkdir <name>
   cd <name>
-  git clone https://github.com/Imrankhan06/youkraft-assignments
+  git clone https://github.com/Imrankhan06/youkraft-assignments.git
 ```
 Create virtual environment(Ubuntu, Mac)
 
