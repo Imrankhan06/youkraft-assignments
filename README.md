@@ -4,8 +4,12 @@
 
 ## Features
 
-- Signup
-- logging
+Task 1
+  - Custom User Model
+
+Task 2
+  - Registration
+  - Login
 
 
 ## Project setup in local env
