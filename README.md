@@ -49,6 +49,9 @@ Install project dependencies
 ```
 
 ## Task 2(Check Password)
+```bash
+  cd Task2/youkraftTask2/  
+  python manage.py runserver
 
 * Registration:
 ```bash
