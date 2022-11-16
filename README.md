@@ -39,7 +39,23 @@ Run the application
   python manage.py runserver
 ```
 
-## List of APIs
+## Task 1(Custom User Model and hash password before saving to DB)
+```bash
+  cd Task1/
+  python manage.py runserver
+  
+  API: http://localhost:8000/api/users/
+	
+	Method: POST
+
+	payload: {
+		'username':<username>,
+		'email': <email>,
+		'password':<password>
+	}
+```
+
+## Task 2(Check Password)
 
 * Registration:
 ```bash
