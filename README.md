@@ -1,9 +1,6 @@
 
 # YouKraft Assignment
 
-
-## Features
-
 Task 1
   - Custom User Model
 
